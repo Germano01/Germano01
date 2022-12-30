@@ -1,4 +1,4 @@
-## 👽 OLÁ VISITANTE, você está na 🛸 de Germano!
+## 👽 OLÁ VISITANTE! Você está na 🛸 de Germano!
 
 <div align="center">
   <a href="https://www.linkedin.com/in/germanovinicius/">
