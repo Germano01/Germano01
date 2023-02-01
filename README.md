@@ -1,6 +1,6 @@
 ## 
 <div align="center">
- <h1> BEM VINDO AO MEU INVENTÁRIO! 📦🛠 </h1>
+ <h1> 📦 BEM VINDO AO MEU INVENTÁRIO! 🛠 </h1>
 </div>
 
 <div align="center">
